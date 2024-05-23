@@ -1,0 +1,48 @@
+<application>
+  <component name="PostfixTemplatesSettings">
+    <option name="providerToDisabledTemplates">
+      <disabled-templates provider="builtin.js">
+        <value>
+          <set>
+            <option value="com.intellij.lang.javascript.template.postfix.JSArgumentPostfixTemplate#.arg" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSDForOfPostfixTemplate#.dforof" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSDestructAllPostfixTemplate#.destructAll" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSDestructPostfixTemplate#.destruct" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSForInPostfixTemplate#.forin" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSForInPostfixTemplate#.itin" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSForIndexedPostfixTemplate#.fori" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSForIndexedReversedPostfixTemplate#.forr" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSForOfPostfixTemplate#.forof" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSIfInstanceOfPostfixTemplate#.instanceof" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSIfStatementPostfixTemplate#.if" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSIfTypeOfPostfixTemplate#.typeofif" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSIntroduceLetPostfixTemplate#.let" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSIntroduceVarPostfixTemplate#.var" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSLogPostfixTemplate#.log" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSNotExpressionPostfixTemplate#!" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSNotExpressionPostfixTemplate#.not" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSNotNullStatementPostfixTemplate#.notnull" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSNullStatementPostfixTemplate#.null" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSParenthesizedPostfixTemplate#.par" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSReturnStatementPostfixTemplate#.return" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSSwitchPostfixTemplate#.switch" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSThrowStatementPostfixTemplate#.throw" />
+            <option value="com.intellij.lang.javascript.template.postfix.JSUndefPostfixTemplate#.undef" />
+          </set>
+        </value>
+      </disabled-templates>
+      <disabled-templates provider="com.intellij.reactbuddy.livetemplate.postfix.RcbPostfixTemplateProvider">
+        <value>
+          <set>
+            <option value="card" />
+            <option value="cardList" />
+            <option value="com.intellij.reactbuddy.livetemplate.postfix.ArrayToJSXMapPostfixTemplate#.map" />
+            <option value="com.intellij.reactbuddy.livetemplate.postfix.ConvertToStatePostfixTemplate#.state" />
+            <option value="table" />
+            <option value="treeTable" />
+          </set>
+        </value>
+      </disabled-templates>
+    </option>
+  </component>
+</application>

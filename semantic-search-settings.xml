@@ -1,0 +1,10 @@
+<application>
+  <component name="SearchEverywhereMlSettings">
+    <option name="ml_ranking_in_all_tab_enabled_state" value="true" />
+    <option name="ml_ranking_in_all_tab_experiment_state" value="CHANGED_MANUALLY" />
+  </component>
+  <component name="SemanticSearchSettings">
+    <option name="files_tab_manually_set" value="true" />
+    <option name="manual_enabled_in_files_tab" value="true" />
+  </component>
+</application>

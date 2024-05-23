@@ -1,0 +1,17 @@
+<application>
+  <component name="SettingsSyncSettings">
+    <option name="disabledSubcategories">
+      <map>
+        <entry key="PLUGINS">
+          <value>
+            <list>
+              <option value="com.github.gitofleonardo.simplesqlitebrowser" />
+              <option value="com.previewjs.intellij.plugin" />
+              <option value="com.starzec.piotr" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

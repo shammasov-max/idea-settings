@@ -1,0 +1,84 @@
+<keymap version="1" name="Windows Proper Redo" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="ActivateCodiumAIToolWindow">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="alt 3" />
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="CallInlineCompletionAction">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Diff.FocusOppositePane" />
+  <action id="Diff.ShowDiff" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
+  </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
+  </action>
+  <action id="EditorToggleCase" />
+  <action id="EmmetNextEditPoint" />
+  <action id="EmmetPreviousEditPoint" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.LightEditGotoOpenedFile">
+    <keyboard-shortcut first-keystroke="shift ctrl o" />
+  </action>
+  <action id="Git.SelectInGitLog">
+    <keyboard-shortcut first-keystroke="ctrl alt g" />
+  </action>
+  <action id="IntentionActionAsAction_com.tabnine.chat.actions.TabnineQuickFixAction">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
+  </action>
+  <action id="LocalHistory.ShowSelectionHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="ManualTriggerTabnineInlineCompletionAction">
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+  </action>
+  <action id="Markdown.Styling.CreateLink" />
+  <action id="QuickJavaDoc">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="shift ctrl 1" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="ShowIntentionActions">
+    <keyboard-shortcut first-keystroke="alt enter" />
+    <keyboard-shortcut first-keystroke="alt z" />
+    <keyboard-shortcut first-keystroke="shift z" />
+  </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+  </action>
+  <action id="Terminal.Find">
+    <keyboard-shortcut first-keystroke="ctrl f" />
+  </action>
+  <action id="Terminal.ShowDocumentation">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="ToggleBookmark1" />
+  <action id="Vcs.Log.ShowTooltip">
+    <mouse-shortcut keystroke="alt button2" />
+  </action>
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="shift ctrl h" />
+  </action>
+  <action id="XDebugger.CopyWatch" />
+  <action id="me.laria.code.idea_caseconv.CamelCaseAction">
+    <keyboard-shortcut first-keystroke="shift ctrl u" />
+  </action>
+</keymap>

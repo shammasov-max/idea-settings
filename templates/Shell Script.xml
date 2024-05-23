@@ -1,0 +1,6 @@
+<templateSet group="Shell Script">
+  <template name="git commit" value="git commit -m &quot;$MESSAGE$&quot;" description="Commit changes" toReformat="false" toShortenFQNames="false" deactivated="true">
+    <variable name="MESSAGE" expression="" defaultValue="&quot;commit_message&quot;" alwaysStopAt="true" />
+    <context />
+  </template>
+</templateSet>
