@@ -21,7 +21,6 @@
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.cs*</mask>
-    <mask>*.scss</mask>
     <mask>*.json</mask>
     <mask>*.ts,!*.d.ts</mask>
     <mask>*.tsx,!*.d.ts</mask>
@@ -29,5 +28,6 @@
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.ts*</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
