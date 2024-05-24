@@ -31,5 +31,6 @@
         </option>
       </ChangeUserSettingParams>
     </option>
+    <option name="showInlineTriggerTips" value="false" />
   </component>
 </application>
