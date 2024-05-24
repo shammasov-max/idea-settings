@@ -7,6 +7,7 @@
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.xml</mask>
     <mask>*.css</mask>
     <mask>*.htm</mask>
@@ -14,7 +15,6 @@
     <mask>*.shtm</mask>
     <mask>*.ng</mask>
     <mask>*.shtml</mask>
-    <mask>*.html</mask>
     <mask>*.mts</mask>
     <mask>*.ats</mask>
     <mask>*.cts</mask>
@@ -28,6 +28,7 @@
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.ts*</mask>
+    <mask>*.html</mask>
     <mask>*.scss</mask>
   </component>
 </application>
