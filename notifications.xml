@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="tabnine" playSound="true" />
+  </component>
+</application>
