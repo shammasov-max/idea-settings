@@ -21,7 +21,6 @@
     <option name="IMPORTS_WRAP" value="0" />
     <option name="UNION_TYPES_WRAP" value="1" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
-    <option name="ALIGN_IMPORTS" value="true" />
     <option name="ALIGN_UNION_TYPES" value="true" />
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="SPACE_WITHIN_TYPE_ASSERTION" value="true" />
