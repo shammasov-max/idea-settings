@@ -2,6 +2,8 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="OPEN_SSH" host="godj.pro" id="19f4f548-52a6-4665-aee3-a9a6738f4e94" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="admin.godj.pro" id="f22d1558-a23b-415a-9fc3-76bf3246896e" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
+      <sshConfig host="65.109.32.56" id="026c09f3-7d7f-4a3a-86d2-3305bfe6bae7" keyPath="$USER_HOME$/.ssh/id_ed25519" port="22" nameFormat="DESCRIPTIVE" username="root" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
