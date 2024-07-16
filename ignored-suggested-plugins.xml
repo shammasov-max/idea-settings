@@ -3,6 +3,7 @@
     <option name="pluginIds">
       <list>
         <option value="intellij.webpack" />
+        <option value="intellij.vitejs" />
       </list>
     </option>
   </component>
