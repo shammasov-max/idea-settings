@@ -103,6 +103,7 @@
     <option name="COLON_MOVE_OUTSIDE_QUOTES" value="true" />
     <option name="COMMA_MOVE_OUTSIDE_QUOTES" value="true" />
   </component>
+  <component name="LiveEditOptions" nodeAutoDelay="400" nodeUpdateOnChanges="true" />
   <component name="MarkdownCodeFoldingSettings">
     <option name="collapseTableOfContents" value="false" />
   </component>
