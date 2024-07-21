@@ -86,9 +86,10 @@
       <set>
         <option value="Dockerfile.docker.inlay.hints" />
         <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
+        <option value="TypeScript.tabnine.chat.inlay.provider" />
       </set>
     </option>
-    <option name="lastViewedProviderKeyId" value="TypeScript.tabnine.chat.inlay.provider" />
+    <option name="lastViewedProviderKeyId" value="" />
   </component>
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
