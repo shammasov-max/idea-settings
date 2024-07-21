@@ -31,18 +31,6 @@
           </set>
         </value>
       </disabled-templates>
-      <disabled-templates provider="com.intellij.reactbuddy.livetemplate.postfix.RcbPostfixTemplateProvider">
-        <value>
-          <set>
-            <option value="card" />
-            <option value="cardList" />
-            <option value="com.intellij.reactbuddy.livetemplate.postfix.ArrayToJSXMapPostfixTemplate#.map" />
-            <option value="com.intellij.reactbuddy.livetemplate.postfix.ConvertToStatePostfixTemplate#.state" />
-            <option value="table" />
-            <option value="treeTable" />
-          </set>
-        </value>
-      </disabled-templates>
     </option>
   </component>
 </application>

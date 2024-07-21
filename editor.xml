@@ -1,5 +1,6 @@
 <application>
   <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
   </component>
   <component name="CodeInsightSettings">
@@ -85,7 +86,6 @@
       <set>
         <option value="Dockerfile.docker.inlay.hints" />
         <option value="Markdown.MarkdownTableInlayProviderSettingsKey" />
-        <option value="TypeScript.tabnine.chat.inlay.provider" />
       </set>
     </option>
     <option name="lastViewedProviderKeyId" value="TypeScript.tabnine.chat.inlay.provider" />
@@ -94,7 +94,9 @@
     <option name="onboardingFinished" value="true" />
   </component>
   <component name="JSCodeFoldingSettings">
+    <option name="collapseObjectLiterals" value="true" />
     <option name="collapseOneLineFunctions" value="true" />
+    <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
   </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />

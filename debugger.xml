@@ -2,7 +2,7 @@
   <component name="XDebuggerSettings">
     <data-views>
       <option name="showLibraryStackFrames" value="true" />
-      <option name="valueLookupDelay" value="500" />
+      <option name="valueLookupDelay" value="200" />
     </data-views>
     <general>
       <scroll-to-center>true</scroll-to-center>
@@ -11,6 +11,9 @@
       <debugger id="javascript">
         <configuration>
           <custom-object-presentation />
+          <stepping-filters>
+            <stepping-filter url-pattern="redux-saga" />
+          </stepping-filters>
         </configuration>
       </debugger>
     </debuggers>
