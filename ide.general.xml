@@ -11,6 +11,7 @@
     <entry key="performance.watcher.unresponsive.interval.ms" value="2000" />
     <entry key="eslint.additional.file.extensions" value="svelte" />
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
+    <entry key="ide.experimental.ui" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
