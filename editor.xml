@@ -1,13 +1,11 @@
 <application>
   <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
   </component>
   <component name="CodeInsightSettings">
     <option name="PARAMETER_INFO_DELAY" value="10" />
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="JAVADOC_INFO_DELAY" value="100" />
-    <option name="SHOW_FULL_SIGNATURES_IN_PARAMETER_INFO" value="true" />
     <option name="JAVADOC_STUB_ON_ENTER" value="false" />
     <option name="ENABLE_SECOND_REFORMAT" value="true" />
     <option name="HIGHLIGHT_SCOPE" value="true" />
@@ -37,6 +35,7 @@
     </option>
   </component>
   <component name="DaemonCodeAnalyzerSettings">
+    <option name="AUTOREPARSE_DELAY" value="200" />
     <option name="ERROR_STRIPE_MARK_MIN_HEIGHT" value="3" />
   </component>
   <component name="DeclarativeInlayHintsSettings">
@@ -71,6 +70,7 @@
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="false" />
     <option name="SHOW_INSPECTION_WIDGET" value="false" />
+    <option name="TOOLTIPS_DELAY_MS" value="200" />
     <option name="IS_FOLDING_ENDINGS_SHOWN" value="true" />
     <option name="STICKY_LINES_LIMIT" value="4" />
     <option name="USE_EDITOR_FONT_IN_INLAYS" value="true" />
@@ -92,11 +92,6 @@
   </component>
   <component name="InlineCompletionOnboarding">
     <option name="onboardingFinished" value="true" />
-  </component>
-  <component name="JSCodeFoldingSettings">
-    <option name="collapseObjectLiterals" value="true" />
-    <option name="collapseOneLineFunctions" value="true" />
-    <option name="COLLAPSE_OBJECT_LITERALS" value="true" />
   </component>
   <component name="JSEditorOptions">
     <option name="START_STRING_INTERPOLATION_ON_TYPING" value="true" />
