@@ -4,6 +4,16 @@
       <list>
         <option value="intellij.webpack" />
         <option value="intellij.vitejs" />
+        <option value="org.jetbrains.plugins.stylus" />
+        <option value="com.intellij.angularjs" />
+        <option value="com.jetbrains.plugins.jade" />
+        <option value="com.intellij.tailwindcss" />
+        <option value="org.jetbrains.plugins.vue" />
+        <option value="com.jetbrains.lang.ejs" />
+        <option value="com.deadlock.scsyntax" />
+        <option value="AngularJS" />
+        <option value="tslint" />
+        <option value="Karma" />
       </list>
     </option>
   </component>
