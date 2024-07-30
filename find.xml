@@ -29,6 +29,7 @@
     <mask>*.json</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*ts*</mask>
     <mask>*.ts*</mask>
   </component>
 </application>
