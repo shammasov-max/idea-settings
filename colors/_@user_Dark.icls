@@ -1,5 +1,5 @@
 <scheme name="_@user_Dark" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.25" />
+  <option name="FONT_SCALE" value="2.2916665" />
   <metaInfo>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2024.1.1.0.0</property>
@@ -8,11 +8,11 @@
     <property name="pluginId">com.intellij</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_SIZE" value="29" />
   <option name="EDITOR_FONT_NAME" value="Cascadia Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Cascadia Mono" />
-  <option name="CONSOLE_FONT_SIZE" value="14" />
+  <option name="CONSOLE_FONT_SIZE" value="26" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
     <option name="MODIFIED_TAB_ICON" value="4fae54" />
